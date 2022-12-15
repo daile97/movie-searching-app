@@ -21,10 +21,12 @@
   },
   "homepage": "https://github.com/daile97/movie-searching-app#readme",
   "dependencies": {
+    "embla-carousel-react": "^7.0.5",
     "eslint-config-next": "^13.0.6",
     "next": "^13.0.6",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1"
   },
   "devDependencies": {
     "@types/node": "^18.11.14",
